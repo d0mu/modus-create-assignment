@@ -1,3 +1,10 @@
+# Running the tests
+
+- Tests can be run from terminal or IDE.
+- After cloning and building the project run from IDE feature files
+- Or after cloning and building the project run from terminal with the command `mvn test`
+- To generate an `HTML` report run the command `mvn test -Dcucumber.options=”–plugin html:src/java/test/Reports/report.html”`
+
 # Modus Create Budgeting - Test Plan
 
 ## Prerequisites
